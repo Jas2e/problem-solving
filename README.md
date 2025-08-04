@@ -30,17 +30,7 @@ Problems range from **basic to advanced**, covering topics such as:
 
 ---
 
-## 📂 Repository Structure
 
-📦 problem-solving/
-┣ 📁 Day_01/
-┃ ┗ 📄 problem1.py
-┃ ┗ 📄 problem2.py   
-┣ 📁 Day_02/
-┃ ┗ 📄 another_problem.py
-┣ 📁 Day_03/
-┃ ┗ 📄 yet_another_problem.py
-┗ 📄 README.md
 
 ⭐ Support & Motivation
 If you find this helpful, consider ⭐ starring the repository.
